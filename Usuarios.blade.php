@@ -25,7 +25,7 @@
 </head>
 <body>
 
-
+ <h1>Prueba Formulario</h1>
     <div class="container">
         
         <div class="col-md-4 col-sm-5 col-xs-10 col-md-offset-3 col-sm-offset-2 col-xs-1">
