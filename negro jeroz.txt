@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 hola coo estyas aporte oscar
+=======
+<<<<<<< HEAD
+
+
+Omar Chaparro
+=======
+Esto es una prueba
+>>>>>>> origin/master
+>>>>>>> origin/master
