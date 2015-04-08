@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 
@@ -15,4 +16,9 @@ Omar Chaparro
 Esto es una prueba
 >>>>>>> origin/master
 >>>>>>> origin/master
+<<<<<<< Updated upstream
 >>>>>>> origin/master
+=======
+=======
+prueba sebastian
+>>>>>>> Stashed changes
