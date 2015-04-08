@@ -1,5 +1,25 @@
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+
+
+>>>>>>> origin/master
 
 ISRAEL ARBONA
 
 hola coo estyas aporte oscar
 Omar Chaparro
+<<<<<<< HEAD
+=======
+=======
+Esto es una prueba
+>>>>>>> origin/master
+>>>>>>> origin/master
+<<<<<<< Updated upstream
+>>>>>>> origin/master
+=======
+=======
+prueba sebastian
+>>>>>>> Stashed changes
+>>>>>>> origin/master
