@@ -64,6 +64,8 @@
 
 
                 <button id="btRegistrar" class"btn btn-success" type="submit">Registrarse</button>
+	       <button id="btnuevo" class"btn btn-success" type="submit">Nuevo Boton</button>
+
 
                 
 
