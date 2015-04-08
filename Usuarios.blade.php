@@ -5,7 +5,7 @@
     El Mono Tiene Cara de que Hizo Algo Malo
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<meta charset="UTF-8">
-	<title>Registro de Usuddddddrios</title>
+	<title>Registro de Usuarios</title>
 	
 	<link rel="stylesheet" href="css/bootstrap-theme.css">
 	<script src="js/bootstrap.min.js"></script>
@@ -27,7 +27,7 @@
 </head>
 <body>
 
- <h1>Prueba Formulario</h1>
+
     <div class="container">
         
         <div class="col-md-4 col-sm-5 col-xs-10 col-md-offset-3 col-sm-offset-2 col-xs-1">
